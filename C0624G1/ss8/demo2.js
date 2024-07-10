@@ -1,4 +1,4 @@
 function calculate(operator) {
-    let c = parseFloat(document.getElementById('c').value)
-    let
+    let thang = +document.getElementById('thang').value;
+    if ()
 }
